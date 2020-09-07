@@ -122,6 +122,10 @@ a.hover{
   z-index:100;
 }
 
+.float:hover{
+  color:#FFF;
+}
+
 .my-float{
 	margin-top:16px;
 }
