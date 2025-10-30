@@ -1,0 +1,21 @@
+# Ignorar configuración local del servidor (nunca subir)
+app/config.local.php
+
+# Archivos de entorno o secretos
+.env
+
+# Dumps de bases de datos o backups
+dump.sql
+*.sql.gz
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta de dependencias (si en el futuro usás Composer)
+vendor/
+
+# Archivos temporales o logs
+*.log
+*.tmp
+.cache/
