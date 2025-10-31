@@ -19,3 +19,5 @@ vendor/
 *.log
 *.tmp
 .cache/
+.DS_Store
+.DS_Store
